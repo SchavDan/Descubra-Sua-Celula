@@ -1,0 +1,80 @@
+        body{
+            background:#7df3f7b4
+        }
+
+        header {
+            text-align: center;
+            font: bold 20pt Arial;
+        }
+
+        section {
+            background-color: rgb(249, 250, 224);
+            border-radius: 10px;
+            padding: 100px;
+            width: 500px;
+            margin: auto;
+            box-shadow: 5px 5px 10px rgb(54, 46, 46);
+           
+           /*margin-top: 250px;*/
+        }
+
+        p {
+            font: normal 20pt Arial black;
+            color: #000000;
+            text-align: center;
+            margin-top: 100px;
+            margin-block-end: 100px;
+
+        }
+
+        input#name {
+            font: bold 19pt Arial;
+            color: #000000;
+            background-color: #dbc9c979;
+            border-radius: 1000px;
+            width: 350px;
+            padding: 6px;
+            
+        }
+        
+        input#bairro {
+            font: normal 18pt Arial;
+            color: #000000;
+            background-color: #dac3c379;
+            border-radius: 10px;
+            padding: 0px;
+        }
+        
+        select {
+            width: 350px;
+            padding: 6px;
+            font: bold 18pt Arial black;
+            border-radius: 50px;
+            background-color: #ccf0ea;
+            font-style: italic;
+            
+        }
+
+
+
+        div#res {
+            font: normal 22pt Arial;
+            background-color: rgb(34, 207, 149);
+            border-radius: 25px;
+            text-align: center;      
+            
+        }
+
+        input#button {
+            background-color: #e79e00fb;
+            font: normal 16pt Arial black;
+            border-radius: 1000px;
+            
+        }
+        #logo {
+            text-align: center;
+            margin-top: 100px;
+            margin-block-end: 100px;
+            border-radius: 50px;
+            margin-left: 850px;
+        }              
